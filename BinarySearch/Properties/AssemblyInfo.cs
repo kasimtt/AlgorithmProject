@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ThreadingDemo")]
+[assembly: AssemblyTitle("BinarySearch")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ThreadingDemo")]
+[assembly: AssemblyProduct("BinarySearch")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("18d4b2f4-970c-422a-b5eb-b6ab196f5235")]
+[assembly: Guid("b0d50c94-d0dd-4ee8-a9a6-bf38ade7381c")]
 
 // Version information for an assembly consists of the following four values:
 //
